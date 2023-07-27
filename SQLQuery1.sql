@@ -1,0 +1,1 @@
+﻿INSERT INTO  BookTb1(Btitle,Bauthor,Bcat,Bqty,Bprice)VALUES('QW','A','B',2,2);
